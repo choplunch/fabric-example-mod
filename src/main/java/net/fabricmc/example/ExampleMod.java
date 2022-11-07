@@ -16,6 +16,8 @@ public class ExampleMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
+		// we do a little committing
+
 		LOGGER.info("Hello Fabric world!");
 	}
 }
